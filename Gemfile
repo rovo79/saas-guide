@@ -49,3 +49,6 @@ end
 
 #Devise gem
 gem "devise"
+
+#Print ruby objects with color and indentation
+gem "awesome_print"
