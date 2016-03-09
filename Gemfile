@@ -61,3 +61,9 @@ gem "devise-async"
 
 #Web server
 gem "puma"
+
+#Bootstrap sass for styling
+gem 'bootstrap-sass', '~> 3.3.6'
+
+#Simple form
+gem 'simple_form'
