@@ -52,3 +52,12 @@ gem "devise"
 
 #Print ruby objects with color and indentation
 gem "awesome_print"
+
+#Sidekiq for background processing
+gem "sidekiq"
+
+#For sending emails in the background
+gem "devise-async"
+
+#Web server
+gem "puma"
